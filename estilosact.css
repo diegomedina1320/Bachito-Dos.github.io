@@ -1,0 +1,36 @@
+html{
+    text-align: center;
+}
+#rec{
+    width: 30%;
+    border: 8px darkseagreen;
+    border-style: dashed;
+}
+.logo5{
+    width: 100%;
+    height: 250px;
+    border: 8px green;
+    border-style:ridge;
+    text-align: center;
+}
+.logo6{
+    display: inline-block;
+    text-align: center;
+}
+figcaption{
+    background-color: darkseagreen;
+    color: black;
+}
+#p1{
+    text-align: justify;
+    color: green;
+    width:85%;
+    background-color:darkseagreen;
+    border: 10px green;
+    border-style: solid;
+    float: left;
+    font-size: 1.5em;
+}
+h1{
+    background-color:darkseagreen;
+}

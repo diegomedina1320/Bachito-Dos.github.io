@@ -1,0 +1,55 @@
+header{
+    text-align: center;
+}
+#act{
+    width: 55%;
+    height: 400px;
+}
+#lista main{
+    margin: 119.8px;
+    position: relative;
+    top: 100px;
+    width: 27%;
+    display: inline-block;
+}
+.pares{
+position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+    border: 10px aqua;
+    border-style: outset;
+}
+#camp{
+    border: 10px aqua;
+    border-style: inset;
+    float: inherit;
+}
+figcaption{
+    font-size: 1.5em; 
+    text-align: center;
+}
+figure{
+    text-align: center;
+}
+#tituloini{
+    text-align: center;
+    background-color:darkseagreen;
+    color: black;
+    font-size: 1.8em;
+}
+ul{
+    text-align: center;
+}
+p{
+    font-size: 1.2em;
+    text-align: center;
+    color:black;
+    font-family:monospace;
+}
+h4{
+   text-align: center;
+    background-color: darkseagreen;
+    color: black; 
+    font-size: 1.2em;
+}

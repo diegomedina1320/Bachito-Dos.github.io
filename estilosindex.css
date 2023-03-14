@@ -1,0 +1,41 @@
+#logo1{
+    display: inline-block;
+    width: 13%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+}
+#logo2{
+    display: inline-block;
+    width: 13%;
+    float: right;
+}
+#barra{
+    clear: both;
+}
+.menu{
+    display: inline-block;
+    width: 15%;
+    background-color: forestgreen;
+    font-size: 20px;
+    text-align: center;
+    border: groove;
+}
+#marco{
+    width: 99%;
+    padding: 8px;
+    height: 400px;
+    color: darkgreen;
+}
+#pie{
+   text-align: center;
+    font-size: 20px;
+    border: groove;
+    background-color: darkseagreen;  
+}
+#pag{
+
+}

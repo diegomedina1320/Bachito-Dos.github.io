@@ -1,0 +1,19 @@
+html{
+    text-align: center;
+}
+#rec{
+    display: inline-block;
+    width: 30%;
+}
+iframe{
+    width: 80%;
+    height: 500px;
+    border: 8px black;
+    border-style:ridge;
+}
+ol{
+    text-align: left;
+}
+h1{
+    background-color: darkseagreen;
+}

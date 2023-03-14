@@ -1,0 +1,16 @@
+#img3{
+    display: inline-block;
+    float: right;
+    clear:both;
+    width: 20%;
+    margin: 11px;
+}
+h3{
+text-align: center;
+}
+#bien{
+    text-align: center;
+}
+#info{
+    color: blue;
+}
